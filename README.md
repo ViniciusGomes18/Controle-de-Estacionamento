@@ -9,10 +9,12 @@ O sistema foi construído com foco em clareza, simplicidade arquitetural, respon
 
 ---
 
-##Participantes
+## Participantes
 
 Vinicius Da Silva Gomes - RA 2010424
+
 Guilherme Dalanora Dos Santos - RA 1991839
+
 João Pereira Guerra - RA 2006484
 
 ---
