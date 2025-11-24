@@ -24,6 +24,11 @@ O sistema foi construído com foco em clareza, simplicidade arquitetural, respon
 
 ---
 
+##Participantes
+
+Guilherme Dalanora Dos Santos - RA 1991839
+Vinicius da Silva Gomes - RA 2010424
+
 ## Regras de Negócio
 
 ### Tipos de veículos e tarifas
